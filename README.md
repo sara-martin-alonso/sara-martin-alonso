@@ -4,7 +4,7 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner
 **💡 Languages and Tools:** 
 
  <div>
-  - Frontend:
+  - Frontend: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
@@ -15,7 +15,7 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner
 </div>
 
 <div> 
-  - Backend:
+  - Backend:  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
@@ -24,17 +24,18 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner
 </div>
 
 <div>
-  - Data Analysis:
+  - Data Analysis: &nbsp&nbsp
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=flat-square&logo=flask&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />
-  💻Machine Learning
+ 💻Machine Learning
   🖌️Web Scraping
+
 </div>
 
 <div>
-  - Learning:
+  - Learning: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
 </div>
 
