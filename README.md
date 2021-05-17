@@ -32,7 +32,7 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner
   💻Machine Learning
   🖌️Web Scraping
 </div>
-<br>
+
 <div>
   - Learning:
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
