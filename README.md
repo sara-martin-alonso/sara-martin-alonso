@@ -1,17 +1,11 @@
-### Hello there! 👋
+### 👋 Hello there! 
 Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner who enjoys all the benefits of team-working. For more than a year now I've deepened my knowledge in Programming Languages related to Web Development and Data Analytics. 
 
-**Anything else?**
-
-Yes! My university studies were focused on Spanish Philology and Language Teaching, which gave me a good insight of literature and linguistics. 
-I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 Improv Theatre.
-
-**Languages and Tools:** 
+**💡 Languages and Tools:** 
 
  <div>
   - Frontend:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- 
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
@@ -19,7 +13,6 @@ I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </div>
-
 
 <div> 
   - Backend:
@@ -30,7 +23,6 @@ I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
-
 <div>
   - Data Analysis:
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
@@ -40,11 +32,18 @@ I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 
   💻Machine Learning
   🖌️Web Scraping
 </div>
+
 <div>
   - Learning:
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
-  </div>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+</div>
 
+<br>
+
+**📚 Anything else?**
+
+Yes! My university studies are focused on Spanish Philology and Language Teaching, which gave me a good insight of literature and linguistics. 
+I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 Improv Theatre.
 
 ### Thanks for passing by!
 Feel free to check the pinned repositories 👇👇👇 and my Linkedin: https://www.linkedin.com/in/sara-martin-alonso/
