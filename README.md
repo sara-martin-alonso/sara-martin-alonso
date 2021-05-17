@@ -6,6 +6,7 @@ Yes! My university studies were focused on Spanish Philology and Language Teachi
 I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 Improv Theatre.
 
 ### What technologies did you said you know? 
+I didn't! These are the languages I've worked on:
  <div>
   - Frontend:
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
