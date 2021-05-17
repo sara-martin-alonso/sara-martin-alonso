@@ -42,7 +42,7 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner
 
 **📚 Anything else?**
 
-Yes! My university studies are focused on Spanish Philology and Language Teaching, which gave me a good insight of literature and linguistics. 
+Yes! My university studies are focused on Spanish Philology and Language Teaching, which gives me a good insight of literature and linguistics. 
 I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 Improv Theatre.
 
 ### Thanks for passing by!
