@@ -1,5 +1,5 @@
 ### 👋 Hello there! 
-Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner who enjoys all the benefits of team-working. For more than a year now I've deepened my knowledge in Programming Languages related to Web Development and Data Analytics. 
+Welcome to my profile! I'm Sara Martín, Frontend Developer and eager learner who loves team-working. For more than a year now I've deepened my knowledge in Programming Languages related to Web Development and Data Analytics. 
 
 **💡 Languages and Tools:** 
 
