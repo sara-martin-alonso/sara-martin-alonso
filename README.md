@@ -44,7 +44,7 @@ Welcome to my profile! I'm Sara Martín, Frontend Developer and eager learner wh
 **📚 Anything else?**
 
 Yes! My university studies are focused on Spanish Philology and Language Teaching, which gives me a good insight of literature and linguistics. 
-I also enjoy creative activities such as 📷 Photography, 📄 Origami or 🎭 Improv Theatre.
+I also enjoy creative activities such as 📷 <a href="https://www.instagram.com/saramartinfotografia/">Photography</a>, 📄 Origami or 🎭 Improv Theatre.
 
 ### Thanks for passing by!
 Feel free to check the pinned repositories 👇👇👇 and my Linkedin: https://www.linkedin.com/in/sara-martin-alonso/
