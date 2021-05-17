@@ -1,7 +1,5 @@
 ### Hello there! 👋
-Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner who enjoys all the benefits of team-working.
-
-For more than a year now I've deepened my knowledge in Programming Languages related to Web Development and Data Analytics. 
+Welcome to my profile! I'm Sara Martín, Frontend Developer and an eager learner who enjoys all the benefits of team-working. For more than a year now I've deepened my knowledge in Programming Languages related to Web Development and Data Analytics. 
 
 ### Anything else?
 Yes! My university studies were focused on Spanish Philology and Language Teaching, which gave me a good insight of literature and linguistics. 
