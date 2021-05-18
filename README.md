@@ -47,6 +47,6 @@ Yes! My university studies are focused on Spanish Philology and Language Teachin
 I also enjoy creative activities such as 📷 <a href="https://www.instagram.com/saramartinfotografia/">Photography</a>, 📄 Origami or 🎭 Improv Theatre.
 
 ### Thanks for passing by!
-Feel free to check the pinned repositories 👇👇👇 and my Linkedin: https://www.linkedin.com/in/sara-martin-alonso/
+Feel free to check the pinned repositories 👇👇👇 and my LinkedIn: https://www.linkedin.com/in/sara-martin-alonso/
 
 
