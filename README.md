@@ -36,7 +36,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
 
 <div>
   - Learning: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=flat-square&logo=java&logoColor=white"/>
 </div>
 
 <br>
@@ -48,5 +48,3 @@ I also enjoy creative activities such as 📷 <a href="https://www.instagram.com
 
 ### Thanks for passing by!
 Feel free to check the pinned repositories 👇👇👇 and my LinkedIn: https://www.linkedin.com/in/sara-martin-alonso/
-
-
