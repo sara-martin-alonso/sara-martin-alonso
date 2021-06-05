@@ -29,14 +29,17 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=flat-square&logo=flask&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />
- 💻Machine Learning
-  🖌️Web Scraping
+ 
+ <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-%23013243.svg?&style=flat-square" />
+ <img alt="Web Scraping" src="https://img.shields.io/badge/Web Scraping-%23013243.svg?&style=flat-square" />
+ 
 
 </div>
 
 <div>
   - Learning: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=flat-square&logo=java&logoColor=white"/>
+ <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
 </div>
 
 <br>
