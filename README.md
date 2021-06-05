@@ -4,7 +4,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
 **💡 Languages and Tools:** 
 
  <div>
-  - Frontend: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  - Frontend: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
@@ -15,7 +15,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
 </div>
 
 <div> 
-  - Backend:  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  - Backend:  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
@@ -25,12 +25,12 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
 </div>
 
 <div>
-  - Data Analysis: &nbsp&nbsp
+  - Data Analysis: &nbsp&nbsp&nbsp
+   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=flat-square&logo=flask&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />
- 
  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23013243.svg?&style=flat-square" />
  <img alt="Web Scraping" src="https://img.shields.io/badge/Web_Scraping-%23013243.svg?&style=flat-square" />
 
@@ -41,12 +41,21 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
 </div>
+<div>
+  - IDE: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
+</div>
 
 <div>
   - Learning: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=flat-square&logo=java&logoColor=white"/>
  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 </div>
+
+
+
 
 <br>
 
