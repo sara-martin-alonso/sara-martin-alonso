@@ -19,7 +19,8 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/> 
+   <img alt="Mongoose" src ="https://img.shields.io/badge/Mongoose-%238D6748.svg?&style=flat-square&logo=mongodb&logoColor=white"/> 
+ <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/> 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
