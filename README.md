@@ -37,7 +37,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
 </div>
 
 <div>
-  - Design: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  - Design: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
 </div>
