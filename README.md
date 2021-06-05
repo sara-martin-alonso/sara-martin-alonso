@@ -30,10 +30,15 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" />
  
- <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-%23013243.svg?&style=flat-square" />
- <img alt="Web Scraping" src="https://img.shields.io/badge/Web Scraping-%23013243.svg?&style=flat-square" />
- 
+ <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23013243.svg?&style=flat-square" />
+ <img alt="Web Scraping" src="https://img.shields.io/badge/Web_Scraping-%23013243.svg?&style=flat-square" />
 
+</div>
+
+<div>
+  - Design: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
+   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23013243.svg?&style=flat-square&logo=adobe&logoColor=white" />
 </div>
 
 <div>
