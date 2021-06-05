@@ -10,7 +10,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/reactJS-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </div>
 
