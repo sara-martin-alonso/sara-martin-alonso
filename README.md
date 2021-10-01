@@ -52,6 +52,7 @@ Welcome to my profile! I'm Sara Martín, a Frontend Developer and an eager learn
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=flat-square&logo=java&logoColor=white"/>
  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
+ <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>
 </div>
 
 
